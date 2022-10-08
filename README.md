@@ -1,6 +1,6 @@
 # android-2-unit-2-workshop-2
 
-Developed By : SURYA R
+Developed By : SURYA R<br>
 Reg.no : 212220230052
 
 ## Activity_main.xml
@@ -240,3 +240,6 @@ public class DAOEmployee {
 
 }
 ```
+## OUTPUT:
+![image](https://user-images.githubusercontent.com/75236145/194684647-0f8e87e5-06e5-482e-9db2-d7a1d6b4a4c6.png)
+
